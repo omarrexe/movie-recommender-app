@@ -15,7 +15,7 @@ A Streamlit application that helps you discover highly-rated movies by genre usi
 4. Run: `streamlit run app.py`
 
 ## Live Demo
-[Your Streamlit Cloud URL will go here]
+[https://best-movie-recommender.streamlit.app/]
 
 ## API Key Setup
 Get your free API key from [The Movie Database](https://www.themoviedb.org/settings/api)
